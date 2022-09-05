@@ -1,0 +1,259 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif; ;
+}
+
+
+.Main-header {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+li{
+   display: inline-block;
+   padding: 0px 29px 0px 0px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 12px;
+   font-weight: 500;
+   cursor: pointer;
+}
+
+.span{
+    color: #3ea3e1;
+}
+
+.head{
+    margin:22px 0px 0px 340px;
+    width: 60%;
+    display: inline-block;
+}
+
+.head2 {
+    margin:22px 0px 0px 406px;
+    display: inline-block;
+    width: 50%;
+    
+}
+
+.head2 img {
+    height: 18px;
+    width: 18px;
+}
+
+.but{
+    margin: 18px 0px 0px 147px;
+}
+
+.but button{
+    border-radius: 5px; 
+    background-color: rgb(255,188,13);
+    border: none;
+    font-size: 15px;
+    height: 40px;
+    width: 36%;
+    cursor: pointer;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    display: flex;
+    margin: 27px 0px 0px 226px;
+}
+.logo{
+    margin-bottom: 150px;
+}
+
+.logo img{
+    height: 110px;
+    padding: 0px 59px 0px 0px;
+    margin: -67px 0px 0px -39px;
+    cursor: pointer;
+}
+
+.head3 li {
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.container2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: -62px 82px 0px 185px;
+}
+
+.image img {
+    height: 330px;
+    width: 7540x;
+    padding: 0px 0px 0px 0px;
+}
+
+.para {
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:700 ;
+    padding: 10px 70px 10px 30px;
+    
+}
+
+.small-para {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 20px 127px 10px 30px;
+    line-height: 1.42857143;
+    color: rgb(98, 90, 90);
+}
+.very-small-para {
+    font-size: 10px;
+    padding: 10px 109px 10px 30px;
+    line-height: 1.42857143;
+    font-family: Arial, Helvetica, sans-serif
+    
+}
+.words{
+    letter-spacing: 0px;
+}
+
+.main-button{
+    margin-left: 900px;
+    padding: 17px 0px 0px 60px;
+    margin-bottom: 190px;
+}
+.main-button1{
+    margin-left: 900px;
+    padding: 0px 0px 0px 60px;
+    margin-bottom: 190px;
+}
+.main-button2{
+    margin-left: 900px;
+    padding: 0px 0px 0px 60px;
+    margin-bottom: 190px;
+}
+.main-button3{
+    margin-left: 900px;
+    padding: 0px 0px 0px 60px;
+    margin-bottom: 190px;
+    
+}
+.main-button4{
+    margin-left: 900px;
+    padding: 0px 0px 0px 60px;
+    margin-bottom: 190px;
+}
+.main-button5{
+    margin-left: 900px;
+    padding: 0px 0px 0px 60px;
+    margin-bottom: 190px;
+}
+.main-button6{
+    margin-left: 900px;
+    padding:0px 0px 0px 60px;
+    margin-bottom: 190px;
+    justify-content: flex-end;
+}
+
+button {
+    height: 50px;
+    width: 30%;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(255,188,13);
+    font-size: 14px;
+    padding: 0px 0px 0px 0px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    cursor: pointer;
+}
+.D{
+    width: 50%; 
+}
+.E{
+    width: 50%;
+}
+.F{
+    width: 35%;
+}
+
+strong{
+    font-weight: 700;
+    color: black;
+}
+
+span{
+    color: blueviolet;
+}
+
+.catagory {
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr 3fr;
+    height: 320px;
+    width: 100%;
+}
+
+.cata1 ul a li{
+    color: rgb(128, 114, 114);
+    display: flex;
+    padding: 0px 46px 12px 0px;
+    font-size: 14px;
+}
+
+.cata1 {
+    margin: -100px 0px 0px 183px;
+    width: 58%;
+}
+.cata1 ul a {
+    text-decoration: none;
+}
+
+.HEADER {
+    color: black;
+    font-weight:800 ;
+    font-size: 15px;
+    padding: 0px 0px 0px 0px;
+}
+
+.last-social {
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+}
+
+.social {
+    margin: 0px 0px 0px 174px;
+}
+
+.play-store {
+    margin: 0px 197px 0px 185px;
+}
+
+.social img {
+    padding: 0px 0px 0px 18px;
+}
+
+.line{
+    width: 79%;
+    height: 54px;
+    margin-left: 155px;
+}
+
+.main-footer{
+    margin: -13px 0px 0px 166px;
+    height: 200px;
+}
+
+.foot1 ul a li{
+    color: rgb(144, 124, 124);;
+    padding: 0px 3px 0px 37px;
+    font-size: 14px;
+}
+
+.foot2 ul a li{
+    color: rgb(144, 124, 124);
+    padding: 0px 3px 0px 37px;
+    font-size: 14px;
+}
+
+.foot1 img {
+    height: 30px;
+    padding: 0px 50px 0px 80px;
+}
